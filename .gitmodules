@@ -1,0 +1,6 @@
+[submodule "museum-mate-be"]
+	path = museum-mate-be
+	url = https://github.com/Museum-Mate/museum-mate-be.git
+[submodule "museum-mate-fe"]
+	path = museum-mate-fe
+	url = https://github.com/Museum-Mate/museum-mate-fe.git
