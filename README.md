@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/spring_boot-v3.0.1-green?logo=springboot"  alt="spring-boot" />
   <img src="https://img.shields.io/badge/mysql-v8.0.31-blue?logo=mysql" alt="mysql"/>
   <img src="https://img.shields.io/badge/Redis-v7.0.8-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="redis"/></a>
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-v4.3.5-yellow?logo=JavaScript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-v18.14.0-9?logo=Node.js" alt="Node.js" />
 </p>
